@@ -1,0 +1,9 @@
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.csproj.CoreCompileInputs.cache
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.AssemblyInfoInputs.cache
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.AssemblyInfo.cs
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\bin\Debug\netcoreapp2.0\LinqQuiz.Library.deps.json
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\bin\Debug\netcoreapp2.0\LinqQuiz.Library.dll
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\bin\Debug\netcoreapp2.0\LinqQuiz.Library.pdb
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.dll
+C:\Users\trash\source\repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.pdb
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.csprojResolveAssemblyReference.cache

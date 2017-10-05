@@ -1,0 +1,6 @@
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Tests\bin\Debug\netcoreapp1.1\LinqQuiz.Tests.deps.json
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Tests\bin\Debug\netcoreapp1.1\LinqQuiz.Tests.runtimeconfig.json
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Tests\bin\Debug\netcoreapp1.1\LinqQuiz.Tests.runtimeconfig.dev.json
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Tests\obj\Debug\netcoreapp1.1\LinqQuiz.Tests.csprojResolveAssemblyReference.cache
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Tests\obj\Debug\netcoreapp1.1\LinqQuiz.Tests.csproj.CoreCompileInputs.cache
+C:\Users\trash\Source\Repos\linq-quiz-5ahif-Steffx115\LinqQuiz.Tests\obj\Debug\netcoreapp1.1\LinqQuiz.Tests.AssemblyInfo.cs

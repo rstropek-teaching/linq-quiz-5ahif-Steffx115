@@ -16,7 +16,7 @@ namespace LinqQuiz.Library
         /// </exception>
         public static int[] GetEvenNumbers(int exclusiveUpperLimit)
         {
-            throw new NotImplementedException();
+            return (from num in Enumerable.Range(1,exclusiveUpperLimit-1) where (num % 2) == 0 select num).ToArray();
         }
 
         /// <summary>
@@ -33,7 +33,7 @@ namespace LinqQuiz.Library
         /// </remarks>
         public static int[] GetSquares(int exclusiveUpperLimit)
         {
-            throw new NotImplementedException();
+            return (from num in Enumerable.Range(1, (exclusiveUpperLimit > 1) ? exclusiveUpperLimit-1:1) orderby num descending where ((checked(num * num) % 7) == 0) select num * num).ToArray();
         }
 
         /// <summary>
@@ -52,7 +52,12 @@ namespace LinqQuiz.Library
         /// </remarks>
         public static FamilySummary[] GetFamilyStatistic(IReadOnlyCollection<IFamily> families)
         {
-            throw new NotImplementedException();
+            return families.Select(family => new FamilySummary
+            {
+                AverageAge = family.Persons.Count() <= 0 ? 0 : family.Persons.Average(person => person.Age),
+                FamilyID = family.ID,
+                NumberOfFamilyMembers = family.Persons.Count()
+            }).ToArray();
         }
 
         /// <summary>
@@ -70,7 +75,7 @@ namespace LinqQuiz.Library
         /// </remarks>
         public static (char letter, int numberOfOccurrences)[] GetLetterStatistic(string text)
         {
-            throw new NotImplementedException();
+            return text.Trim().Distinct().Where(f => char.IsLetter(f)).Select((char let,int num)=> { return (let, text.Count(f => f == let)); }).ToArray();
         }
     }
 }
